@@ -1,0 +1,4 @@
+"Operation","Method","Median_Time_Seconds","Memory_Allocated_MB","Iterations_Per_Second"
+"Grouping","Base R",0.131258835011977,108.69832611084,7.73800779434611
+"Grouping","dplyr",0.00482865200319793,4.31796264648438,203.841814502877
+"Grouping","data.table",0.00158981599088293,2.98908233642578,615.601234004644

@@ -1,0 +1,4 @@
+"Operation","Method","Median_Time_Seconds","Memory_Allocated_MB","Iterations_Per_Second"
+"Filtering","data.table",0.000937793010962196,1.69422912597656,1071.49576128205
+"Grouping","data.table",0.00158981599088293,2.98908233642578,615.601234004644
+"Joining","data.table join",0.00625282801047433,6.27870178222656,146.250436938745

@@ -1,0 +1,5 @@
+"Comparison","Outputs_Equivalent"
+"Filtering: Base R vs data.table",TRUE
+"Grouping: Base R vs dplyr",TRUE
+"Grouping: Base R vs data.table",TRUE
+"Joining: Base R merge vs data.table",TRUE

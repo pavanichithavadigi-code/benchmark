@@ -1,0 +1,3 @@
+"Operation","Method","Median_Time_Seconds","Memory_Allocated_MB","Iterations_Per_Second"
+"Joining","Base R merge",0.0460704905053717,22.1498641967773,21.7058683124592
+"Joining","data.table join",0.00625282801047433,6.27870178222656,146.250436938745
